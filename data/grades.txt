@@ -1,0 +1,20 @@
+# Shafak grades
+101, CS101, 85, Fall2016, Turing
+101, CS102, 81, Spring2017, Dijkstra
+101, CS202, 90, Spring2018, Patterson
+# Camus grades
+102, CS101, 83, Fall2016, Turing
+102, MATH101, 77, Fall2016, Gauss
+102, CS102, 88, Spring2017, Godel
+# Hemingway grades
+103, CS101, 65, Fall2016, Turing
+103, CS102, 69, Fall2016, Godel
+103, CS201, 71, Spring2017, Turing
+103, CS202, 70, Spring2017, Godel
+103, CS301, 68, Fall2016, Siberschatz
+# Atwood grades
+104, MATH101, 90, Fall2016, Gauss
+104, MATH102, 87, Fall2016, Hibert
+104, MATH201, 85, Spring2017, Leibnitz
+104, MATH202, 95, Spring2017, Euler
+104, MATH301, 89, Fall2016, Fermat

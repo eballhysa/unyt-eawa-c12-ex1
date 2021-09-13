@@ -54,7 +54,7 @@ def process_data(students, courses)
 end
 
 def go
-  path = 'D:\\data\\unyt\\eawa-c11\\ex1'
+  path = '.\data'
   students = read_students path
   courses = read_courses path
   read_grades path, students, courses

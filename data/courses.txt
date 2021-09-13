@@ -1,0 +1,12 @@
+# Computer Science courses
+CS101, Introduction to Computing, 3, CS
+CS102, Object Orinted programming, 4, CS
+CS201, Data Structures, 4, CS
+CS202, Computer Organization, 4, CS
+CS301, Operating Systems, 3, CS
+# Math courses
+MATH101, Calculus 1, 4, MATH
+MATH102, Calculus 2, 4, MATH
+MATH201, Linear Algebra, 4, MATH
+MATH202, Differential Equations, 4, MATH
+MATH301, Probability Theory, 4, MATH
